@@ -1,0 +1,15 @@
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\bin\Debug\net6.0\cse-210-hilo-solution.exe
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\bin\Debug\net6.0\cse-210-hilo-solution.deps.json
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\bin\Debug\net6.0\cse-210-hilo-solution.runtimeconfig.json
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\bin\Debug\net6.0\cse-210-hilo-solution.dll
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\bin\Debug\net6.0\cse-210-hilo-solution.pdb
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.csproj.AssemblyReference.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.AssemblyInfoInputs.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.AssemblyInfo.cs
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.csproj.CoreCompileInputs.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.dll
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\refint\cse-210-hilo-solution.dll
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.pdb
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\cse-210-hilo-solution.genruntimeconfig.cache
+C:\Users\Connor Hopkins\OneDrive\Documents\GitHub\cse-210-hilo-solution\obj\Debug\net6.0\ref\cse-210-hilo-solution.dll
